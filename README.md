@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 --->
 ### Github Statistic
 <p align="left">
-<a href="https://github.com/penuliscode">
+<a href="https://github.com/ViviApriliani">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ViviAprilini&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ViviApriliani&layout=compact&layout=compact&theme=algolia"/>
 </a>
